@@ -59,3 +59,6 @@ Some potential improvements to the chatbot include:
 2. Contextual understanding: Allowing the chatbot to understand the context of the conversation and respond accordingly.
 3. More diverse responses: Adding more responses to each intent category to make the chatbot more engaging and less repetitive.
 4. Error handling: Implementing error handling mechanisms to handle unexpected user input or errors in the chatbot's response generation.
+
+   OUTPUT;
+          ![Image](https://github.com/user-attachments/assets/4d93ee9c-7de2-4c3e-929c-424731365c08)
